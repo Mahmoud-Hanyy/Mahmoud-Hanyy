@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-hanyy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-hanyy" /> </p>
 
+<p align ="center"><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnltdWF5bHJnYW4zNWx0eDJrdzdldjd2ZGRna2Fhc3RjanNncTB3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt = "coding"/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-hanyy" alt="mahmoud-hanyy" /></a> </p>
 
 - 📫 How to reach me **mahmoudhany374@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16aToY92GSV3cISYQlRgWS_GFKnwpRTiR/view?usp=sharing](https://drive.google.com/file/d/16aToY92GSV3cISYQlRgWS_GFKnwpRTiR/view?usp=sharing)
 
-- ⚡ Fun fact **Always wants to learn more**
+- ⚡ True fact about me  **Always wants to learn more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
