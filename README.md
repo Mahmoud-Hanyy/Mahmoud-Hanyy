@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hany</h1>
 <h3 align="center">An ambitious software engineer from Egypt</h3>
-<p align="right"> <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="coding" /> </p>
+<p align="center"> <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="coding" /> </p>
 
 - 📫 How to reach me **mahmoudhany374@gmail.com**
 
