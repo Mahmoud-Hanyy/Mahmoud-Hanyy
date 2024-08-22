@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **flutter**
   
-- 📫 How to reach me [My Website](https://mahmoudhany374.wixsite.com/mahmoud-hany)
+- 📫 How to reach me [Send a message](mahmoudhany374@gmail.com)
 
 - ⚡ Fun fact **Always wants to learn more**
 
