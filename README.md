@@ -8,7 +8,7 @@
 
 <img align="right" height="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611ejtkox46bew2ruxo2kiwldp9vt575zqq4hn6vub6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
   
-- 📫 How to reach me => [Mahmoud.Hany](https://gravatar.com/mahmoudhany374)
+- 📫 How to reach me => <a href="https://gravatar.com/mahmoudhany374" target="_blank">Mahmoud.Hany</a>
 - ⚡ Fun fact **Always wants to learn more**
 
 <h3 align="left">Connect with me:</h3>
