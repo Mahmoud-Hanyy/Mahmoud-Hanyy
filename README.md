@@ -21,7 +21,7 @@
 
 <br>
 
-[![](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100025439300084) [![](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/mahmoud-hanyy/)  [![](https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000)](mahmoudhany374@gmail.com)
+[![](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100025439300084) [![](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/mahmoud-hanyy/)  [![](https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000)](mailto:mahmoudhany374@gmail.com)
 
 <br>
 
