@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Hi+%2C+I'm+Mahmoud+%F0%9F%91%8B" alt="Typing SVG" /></a>
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODByY3NycnN5MHhzNnlhYWtxd3B6Y285dzI5bDd3NHJuOWowNTFxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IThjAlJnD9WNO/giphy.gif" width="400px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHI2a3d1YXljOTdqZHQ1bTB3OG9maW5ra3p3aXM1OXcyZTdxem05aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2U3ZyxgfuayT2Ui1zr/giphy.gif" width="400px" />
 </p>
 <br/>
 
