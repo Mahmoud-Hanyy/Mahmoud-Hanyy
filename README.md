@@ -1,6 +1,6 @@
 # 💫 About Me:
 - I'm currently working as a Frontend Developer @elandia.
-- I bring pixels to life, where clean code meets clean design.
+- A curious mind who loves bringing ideas to life through code.
 
 
 ## 🌐 Socials:
