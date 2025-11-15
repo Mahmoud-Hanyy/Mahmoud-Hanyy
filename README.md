@@ -1,40 +1,21 @@
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Hi+%2C+I'm+Mahmoud+%F0%9F%91%8B" alt="Typing SVG" /></a>
-  <br/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHI2a3d1YXljOTdqZHQ1bTB3OG9maW5ra3p3aXM1OXcyZTdxem05aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2U3ZyxgfuayT2Ui1zr/giphy.gif" width="400px" />
-</p>
-<br/>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full-Stack 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/mahmoud-hanyy/) ! => Where to find me.
-<br/>
-<br/>
+# 💫 About Me:
+- I'm currently working as a Frontend Developer @elandia.
+- I bring pixels to life, where clean code meets clean design.
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mahmoud-hanyy&label=Profile%20views&color=0e75b6" alt="watching_count" /> 
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hanyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoud.hany.mahmoud@outlook.com) 
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mahmoud-hanyy&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahmoud-hanyy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-hanyy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Connect with me 👨🏾‍🤝‍👨🏼 :
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=mahmoud-hanyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/profile.php?id=100025439300084) [![](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/mahmoud-hanyy/)  [![](https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000)](mailto:mahmoudhany374@gmail.com)
-
-<br>
-
-
-
-## What I am Good at 👨‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png&color=000000"/><img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/?size=48&id=55215&format=png&color=0868AC"/><img src="https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000"/><img src="https://img.icons8.com/?size=48&id=WoopfRcDj3RF&format=png&color=000000"/>
-
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000"/> <img src="https://img.icons8.com/?size=48&id=IuuVVwsdTi2v&format=png&color=000000"/> <img src="https://img.icons8.com/?size=48&id=ewGOClUtmFX4&format=png&color=000000"/><img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000"/>
-
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/?size=48&id=LwQEs9KnDgIo&format=png&color=000000"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/?size=48&id=17842&format=png&color=000000"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
